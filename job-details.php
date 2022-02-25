@@ -70,7 +70,7 @@
                         <div class="row">
 
              <div class="col-lg-8" style="margin-top: -132px;">
-                  <h5 class="card-title"><b>Job Role</b></h5>
+                  <h6 class="card-title"><b>Job Role</b></h6>
                   <p align="justify">We are at Joberie looking to hire Freelancer Photographer urgently nearby Panaji area, candidate who may interested to travel across Goa and shoot as per clients requirements is perfect fit for. Refer below job role and responsibility for more information and qualification criteria’s.
 </p>
                  
