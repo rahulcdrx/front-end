@@ -1,4 +1,23 @@
 <?php include 'header.php' ?>
+<style type="text/css">
+    .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: red;
+}
+p {
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    color: #000000;
+    font-weight: 500;
+    line-height: 24px;
+    margin: 0 0 15px 0;
+}
+</style>
     <!-- Header End -->
 
     <!-- Hero Section Begin -->
@@ -130,18 +149,67 @@
                 </div>
             
             </div>
-            <div class="row">
+            <div class="row" >
               <div class="col-sm-6">
                 <div class="card">
                   <div class="card-body">
                     <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
                              <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                <i class="fa fa-clock-o"></i> 1 Week
-                                 </p>
-
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
+                    <a href="./job-details.php" class="primary-btn">Apply Now</a>
+                  </div>
+                </div>
+              </div>
+             <div class="col-sm-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
+                             <p class="card-text">
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
+                    <a href="./job-details.php" class="primary-btn">Apply Now</a>
+                  </div>
+                </div>
+              </div>
+            </div><br>
+            <div class="row">
+               <div class="col-sm-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
+                             <p class="card-text">
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
+                    <a href="./job-details.php" class="primary-btn">Apply Now</a>
+                  </div>
+                </div>
+              </div>
+               <div class="col-sm-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
+                             <p class="card-text">
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
+                    <a href="./job-details.php" class="primary-btn">Apply Now</a>
+                  </div>
+                </div>
+              </div>
+            </div><br>
+            <div class="row">
+               <div class="col-sm-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
+                             <p class="card-text">
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
                     <a href="./job-details.php" class="primary-btn">Apply Now</a>
                   </div>
                 </div>
@@ -149,14 +217,12 @@
               <div class="col-sm-6">
                 <div class="card">
                   <div class="card-body">
-                  <h5 class="card-title"><b>Photography Part Time Job/internship At Panjim</b></h5>
-                   <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                 <i class="fa fa-clock-o"></i> 2 Days
-                                 </p>
-                   <a href="./job-details.php" class="primary-btn">Apply Now</a>
+                    <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
+                             <p class="card-text">
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
+                    <a href="./job-details.php" class="primary-btn">Apply Now</a>
                   </div>
                 </div>
               </div>
@@ -167,89 +233,22 @@
                   <div class="card-body">
                     <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
                              <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                <i class="fa fa-clock-o"></i> 1 Week
-                                 </p>
-
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
                     <a href="./job-details.php" class="primary-btn">Apply Now</a>
                   </div>
                 </div>
               </div>
-              <div class="col-sm-6">
-                <div class="card">
-                  <div class="card-body">
-                  <h5 class="card-title"><b>Photography Part Time Job/internship At Panjim</b></h5>
-                   <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                 <i class="fa fa-clock-o"></i> 2 Days
-                                 </p>
-                   <a href="./job-details.php" class="primary-btn">Apply Now</a>
-                  </div>
-                </div>
-              </div>
-            </div><br>
-            <div class="row">
-              <div class="col-sm-6">
+               <div class="col-sm-6">
                 <div class="card">
                   <div class="card-body">
                     <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
                              <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                <i class="fa fa-clock-o"></i> 1 Week
-                                 </p>
-
+                <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 1 Week </p>
+                                 <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                     <h5><b>₹ 34,000</b> </h5><br>
                     <a href="./job-details.php" class="primary-btn">Apply Now</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6">
-                <div class="card">
-                  <div class="card-body">
-                  <h5 class="card-title"><b>Photography Part Time Job/internship At Panjim</b></h5>
-                   <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                 <i class="fa fa-clock-o"></i> 2 Days
-                                 </p>
-                   <a href="./job-details.php" class="primary-btn">Apply Now</a>
-                  </div>
-                </div>
-              </div>
-            </div><br>
-            <div class="row">
-              <div class="col-sm-6">
-                <div class="card">
-                  <div class="card-body">
-                    <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
-                             <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                <i class="fa fa-clock-o"></i> 1 Week
-                                 </p>
-
-                    <a href="./job-details.php" class="primary-btn">Apply Now</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6">
-                <div class="card">
-                  <div class="card-body">
-                  <h5 class="card-title"><b>Photography Part Time Job/internship At Panjim</b></h5>
-                   <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                                <br>
-                                <b>₹ 34,000</b><br>
-                                 <i class="fa fa-clock-o"></i> 2 Days
-                                 </p>
-                   <a href="./job-details.php" class="primary-btn">Apply Now</a>
                   </div>
                 </div>
               </div>

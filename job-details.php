@@ -38,29 +38,31 @@
                 <div class="card">
                   <div class="card-body">
                     <div class="row">
-                          <div class="col-lg-6">
+                          <div class="col-lg-8">
                     <h5 class="card-title"><b>Required Freelancer Photographer in Panaji</b></h5>
                              <p class="card-text">
-                                <i class="fa fa-map-marker"></i> Panjim 
-                              
-                                
-                                <i class="fa fa-clock-o"></i> 2 Weeks <br>
-                                <b>₹ 34,000</b>
+                                 <i class="fa fa-map-marker"></i> Panjim <i class="fa fa-clock-o"></i> 2 Weeks 
+                                 <b>₹ 34,000</b>
                                  </p>
 
                     </div>
-                    <div class="col-lg-6 text-right">
+                    <div class="col-lg-4 text-right">
                         <a href="#" class="primary-btn">Apply Now</a>
                     </div>
                 </div>
                   </div>
                 </div>
               </div>
+
               <div class="col-lg-4">
-                   <div class="card" style="width: 18rem;">
-              <img src="img/artist/artist2.jpg" class="card-img-top" alt="Advt">
+                 
+            <div class="card" style="width: 18rem;">
               <div class="card-body">
-                <p class="card-text">Advt 1</p>
+                <h5 class="card-title">Card title</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="card-link">Card link</a>
+                <a href="#" class="card-link">Another link</a>
               </div>
             </div><br>
               </div>
@@ -69,7 +71,7 @@
             </div><br>
                         <div class="row">
 
-             <div class="col-lg-8" style="margin-top: -132px;">
+             <div class="col-lg-8" style="margin-top: -92px;">
                   <h6 class="card-title"><b>Job Role</b></h6>
                   <p align="justify">We are at Joberie looking to hire Freelancer Photographer urgently nearby Panaji area, candidate who may interested to travel across Goa and shoot as per clients requirements is perfect fit for. Refer below job role and responsibility for more information and qualification criteria’s.
 </p>
@@ -105,30 +107,19 @@
                  
               </div>
               <div class="col-lg-4">
-                  <div class="card" style="width: 18rem;">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="card-link">Card link</a>
-                <a href="#" class="card-link">Another link</a>
-              </div>
-            </div><br>
-            <div class="card" style="width: 18rem;">
+                   <div class="card" style="width: 18rem;">
               <img src="img/artist/artist2.jpg" class="card-img-top" alt="Advt">
               <div class="card-body">
                 <p class="card-text">Advt 1</p>
               </div>
-            </div><br>
+            </div> <br>
             <div class="card" style="width: 18rem;">
+              <img src="img/artist/artist4.jpg" class="card-img-top" alt="Advt">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="card-link">Card link</a>
-                <a href="#" class="card-link">Another link</a>
+                <p class="card-text">Advt 2</p>
               </div>
-            </div>
+            </div><br>
+           
               </div>
           </div>
             

@@ -98,13 +98,13 @@
                                     <li class="nav-item">
                                         <a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab">Overview</a>
                                     </li>
-                                    <li class="nav-item">
+                                   <!--  <li class="nav-item">
                                         <a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab">Description</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab">Equipment
 </a>
-                                    </li>
+                                    </li> -->
                                 </ul><!-- Tab panes -->
                                 <div class="tab-content">
                                     <div class="tab-pane active" id="tabs-1" role="tabpanel">

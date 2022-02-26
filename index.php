@@ -697,6 +697,16 @@ img {
                     <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-center category"> Sports <span class="badge badge-primary badge-pill">48</span> </li>
                 </ul>
             </div>
+              <div class="py-3">
+                <h5 class="font-weight-bold">Search</h5>
+                <form class="brand">
+                    <div class="form-inline d-flex align-items-center py-1"> <input type="text" name="" class="form-control" placeholder="Search "> </div>
+                    <div class="form-inline d-flex align-items-center py-1"> <!-- <div class="btn btn-primary">Search</div> </div> -->
+                    <!-- <div class="form-inline d-flex align-items-center py-1"> <label class="tick">Vegetarisma Farm <input type="checkbox" checked> <span class="check"></span> </label> </div>
+                    <div class="form-inline d-flex align-items-center py-1"> <label class="tick">Farmar Field Eve <input type="checkbox"> <span class="check"></span> </label> </div>
+                    <div class="form-inline d-flex align-items-center py-1"> <label class="tick">True Farmar Steve <input type="checkbox"> <span class="check"></span> </label> </div> -->
+                </form>
+            </div>
             <div class="py-3">
                 <h5 class="font-weight-bold">Location</h5>
                 <form class="brand">
@@ -722,160 +732,199 @@ img {
         <section id="products">
             <div class="container py-3">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
                         <div class="card"> <img class="card-img-top" src="img/artist/artist1.jpg">
                             <div class="card-body">
 
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6><i class="fas fa-badge"></i>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5 <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
                                     <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-md-0 pt-4">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
                         <div class="card"> <img class="card-img-top" src="img/artist/artist2.jpg">
                             <div class="card-body">
-                                <h6 class="font-weight-bold pt-1"> <img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+
+                                <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5 <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
                                     <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-0 pt-4">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
                         <div class="card"> <img class="card-img-top" src="img/artist/artist3.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5 <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                   <div class="btn btn-primary">View Profile</div>
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-4 pt-4">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
                         <div class="card"> <img class="card-img-top" src="img/artist/artist4.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5 <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                   <div class="btn btn-primary">View Profile</div>
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-4 pt-4">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
                         <div class="card"> <img class="card-img-top" src="img/artist/artist5.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5  <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                  <div class="btn btn-primary">View Profile</div>
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-4 pt-4">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
                         <div class="card"> <img class="card-img-top" src="img/artist/artist6.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5<span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                    <div class="btn btn-primary">View Profile</div>     
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                     <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-4 pt-4">
-                        <div class="card"> <img class="card-img-top" src="img/artist/artist6.jpg">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
+                        <div class="card"> <img class="card-img-top" src="img/artist/artist4.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5<span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                    <div class="btn btn-primary">View Profile</div>     
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                     <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-4 pt-4">
-                        <div class="card"> <img class="card-img-top" src="img/artist/artist6.jpg">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
+                        <div class="card"> <img class="card-img-top" src="img/artist/artist2.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5<span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                    <div class="btn btn-primary">View Profile</div>     
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                     <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1 pt-lg-4 pt-4">
-                        <div class="card"> <img class="card-img-top" src="img/artist/artist6.jpg">
+                    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1" style="padding-bottom: 34px;">
+                        <div class="card"> <img class="card-img-top" src="img/artist/artist1.jpg">
                             <div class="card-body">
+
                                 <h6 class="font-weight-bold pt-1"><img class="rounded-circle" style="width: 40px; height: 40px;" alt="100x100" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg"
-          data-holder-rendered="true">Shramik Vaibhav</h6>
+          data-holder-rendered="true">Shramik Vaibhav</h6><img src="img/verify/verify.svg" style="width: 22px;
+    height: 19px;
+    margin-left: 182px;
+    margin-top: -71px;">
                                 <div class="text-muted description">Space for small product description</div>
-                                <div class="d-flex align-items-center product"> 4.5/5<span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="fas fa-star"></span> <span class="far fa-star"></span> </div>
+                                <div class="d-flex align-items-center product"> Short List | <span class="fas fa-star"></span> 4.5/5 (35 reviews) </div>
                                 <div class="d-flex align-items-center justify-content-between pt-3">
                                     <div class="d-flex flex-column">
-                                        <div class="h6 font-weight-bold">36.99 USD</div>
-                                        <div class="text-muted rebate">48.56</div>
+                                        <div class="h6 font-weight-bold">₹2369</div>
+                                       
                                     </div>
-                                    <div class="btn btn-primary">View Profile</div>     
+                                    <div class="btn btn-primary">View Profile</div>
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
+
+                  
+                   
+                   
                      
                 </div>
             </div>
